@@ -1,0 +1,3 @@
+package ecomm
+
+object BatchProducerRunnerIntelliJ extends BatchProducerRunner
